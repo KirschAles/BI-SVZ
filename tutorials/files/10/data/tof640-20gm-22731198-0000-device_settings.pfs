@@ -1,0 +1,84 @@
+# {05D8C294-F295-4dfb-9D01-096BD04049F4}
+# GenApi persistence file (version 3.0.1)
+# Device = Basler::Basler_ToF_Camera -- Basler ToF Camera -- Device version = 0.1.0 -- Product GUID = 11111111-2222-3333-4444-555555555555 -- Product version GUID = AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE
+DeviceChannel	3
+DeviceCalibOffset	0
+Binning	0
+Width	640
+Height	480
+OffsetX	0
+OffsetY	0
+DepthMin	0
+DepthMax	13320
+AcquisitionMode	Continuous
+ProcessingMode	Hdr
+AcquisitionFrameRate	10
+ExposureAuto	Off
+ExposureTimeSelector	0
+ExposureTime	20000
+ExposureTimeSelector	1
+ExposureTime	4000
+ExposureTimeSelector	0
+TriggerMode	Off
+TriggerSource	Software
+TriggerDelay	0
+SyncRate	10
+ConfidenceThreshold	2048
+FilterSpatial	1
+FilterTemporal	1
+FilterStrength	235
+OutlierTolerance	6000
+FilterRange	1
+LineSelector	Out1
+LineSource	UserOutput
+LineSelector	Out2
+LineSource	UserOutput
+LineSelector	Line1
+LineSelector	Line1
+LineInverter	0
+LineSelector	Line2
+LineInverter	0
+LineSelector	Out1
+LineInverter	0
+LineSelector	Out2
+LineInverter	0
+LineSelector	Line1
+LineSelector	Line1
+LineDebouncerTime	0
+LineSelector	Line2
+LineDebouncerTime	0
+LineSelector	Line1
+LineSelector	Out1
+MinOutPulseWidth	0
+LineSelector	Out2
+MinOutPulseWidth	0
+LineSelector	Line1
+UserOutputValueAll	0
+GevSCPD	8000
+GevSCFTD	0
+GevIEEE1588	0
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+# {05D8C294-F295-4dfb-9D01-096BD04049F4}
+# GenApi persistence file (version 3.0.1)
+# Device = Basler::GigEVisionStreamParams -- Interface to the GigEVision stream grabber parameters -- Device version = 1.1.2 -- Product GUID = cb3d6861-0299-4059-9e69-e9152a4d6f1a -- Product version GUID = f004b950-41ac-471f-814e-4a736fc5c67b
+Type	WindowsIntelPerformanceDriver
+EnableResend	1
+PacketTimeout	40
+ReceiveWindowSize	10
+ResendRequestThreshold	5
+ResendRequestBatching	10
+ResendTimeout	2
+ResendRequestResponseTimeout	2
+MaximumNumberResendRequests	25
+DestinationPort	0
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+# {05D8C294-F295-4dfb-9D01-096BD04049F4}
+# GenApi persistence file (version 3.0.1)
+# Device = Basler::GigEVisionDeviceParams -- Interface to the GigEVision device specific parameters -- Device version = 1.1.2 -- Product GUID = f76383cd-8ee1-4c56-a6ab-e2ba53731ee1 -- Product version GUID = 0160b51d-efd5-4323-a092-63a05e373068
+DeviceEndianessMechanism	Legacy
+LinkCommandTimeout	200000
+StreamSelector	0
+EventSelector	DeviceLost
+EventSelector	DeviceLost
+EventNotification	Off
+EventSelector	DeviceLost
